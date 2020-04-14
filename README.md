@@ -1,2 +1,3 @@
-# danielafanador.github.com
-Daniel Afanador online CV
+# Daniel Afanador
+São Paulo, SP, Brazil
+English - Spanish - Portuguese - French
