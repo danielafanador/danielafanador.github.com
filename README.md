@@ -11,10 +11,12 @@
 
 ## Experience
 
-### Adglow | São Paulo, Brazil - 07/2016 - Today: 
+### Adglow | São Paulo, Brazil  
+07/2016 - Today
 - Pod Lead, South Cone Accounts & Product Support LatAm
 - Client Solutions Manager, Brazil
 - Account Manager, Brazil
 
-### Facebook (Contractor) | São Paulo, Brazil - 07/2015 - 06/2016
+### Facebook (Contractor) | São Paulo, Brazil  
+07/2015 - 06/2016
 - Page Operations Analyst at Global Shared Services
