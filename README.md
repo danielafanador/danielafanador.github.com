@@ -22,12 +22,20 @@
 - Page Operations Analyst at Global Shared Services
 
 ### A Un Click Colombia | Bogotá, Colombia
+02/2013 - 01/2014
+- SEO Analyst
 
 ### BEA Digital | Bogotá, Colombia
+09/2012 - 01/2013
+- Community Manager & Blogger
 
 ### Organization of American States | Washington, DC, USA
+01/2012 - 05/2012
+- Strategic Communication Intern at Integrated Water Resources Management (IWRM)
 
 ### VanPC | Bogotá, Colombia
+07/2010 - 12/2011
+- Communications coordinator
 
 ## Academic background
 
@@ -43,8 +51,8 @@
 
 ## Courses
 
-### Basic Programing - Platzi 
-### Git & GitHub - Platzi
-### Google Analytics - Platzi
-### Introdution to SQL - Codecademy
-### Online technology entrepreneurship course - Stanford University
+- Basic Programing - Platzi 
+- Git & GitHub - Platzi
+- Google Analytics - Platzi
+- Introdution to SQL - Codecademy
+- Online technology entrepreneurship course - Stanford University
