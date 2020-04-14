@@ -1,8 +1,8 @@
 # Daniel Afanador
-  
-  Contact: danielthemisfits@gmail.com | +55 (11) 99848-2839
 
 ![ ](https://pbs.twimg.com/profile_images/1232330439110615041/p46_R0gn_400x400.jpg)
+  
+  Contact: danielthemisfits@gmail.com | +55 (11) 99848-2839
 
 - 07/04/1990 - Colombian
 - Currently in: São Paulo, SP, Brazil
@@ -13,8 +13,8 @@
 
 ### Adglow | São Paulo, Brazil - 07/2016 - Today: 
 - Pod Lead, South Cone Accounts & Product Support LatAm
-- Client Solutions Manager
-- Account Manager
+- Client Solutions Manager, Brazil
+- Account Manager, Brazil
 
 ### Facebook (Contractor) | São Paulo, Brazil - 07/2015 - 06/2016
 - Page Operations Analyst at Global Shared Services
