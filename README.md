@@ -20,3 +20,31 @@
 ### Facebook (Contractor) | São Paulo, Brazil  
 07/2015 - 06/2016
 - Page Operations Analyst at Global Shared Services
+
+### A Un Click Colombia | Bogotá, Colombia
+
+### BEA Digital | Bogotá, Colombia
+
+### Organization of American States | Washington, DC, USA
+
+### VanPC | Bogotá, Colombia
+
+## Academic background
+
+### ESPM-SP | São Paulo, Brazil
+01/2014 - 03/2016
+- MSc in Communication & Consumption
+- Dissertation: Discursos sobre o consumo nos blogs da comunidade de Vivir Al Máximo (in Portuguese)
+
+### Universidad de La Sabana | Bogotá, Colombia
+01/2008 - 08/2012
+- Bachelor in Communication & Journalism
+- Emphasis in political communication
+
+## Courses
+
+### Basic Programing - Platzi 
+### Git & GitHub - Platzi
+### Google Analytics - Platzi
+### Introdution to SQL - Codecademy
+### Online technology entrepreneurship course - Stanford University
