@@ -44,7 +44,7 @@
 ### ESPM-SP | São Paulo, Brazil
 01/2014 - 03/2016
 - MSc in Communication & Consumption
-- Dissertation: Discursos sobre o consumo nos blogs da comunidade de Vivir Al Máximo (in Portuguese)
+- Dissertation: [Discursos sobre o consumo nos blogs da comunidade de Vivir Al Máximo (in Portuguese)](https://intellectum.unisabana.edu.co/bitstream/handle/10818/23348/tesis-maestria-herman_daniel_afanador_jimenez.pdf?sequence=1&isAllowed=y)
 
 ### Universidad de La Sabana | Bogotá, Colombia
 01/2008 - 08/2012
@@ -53,10 +53,15 @@
 
 ---
 
+## Papers
+- [Blogs de viajes: la creatividad como dispositivo biopolítico en la promoción de un consumo alternativo (2016)](https://revistas.udea.edu.co/index.php/folios/article/view/326292?fbclid=IwAR2Q_-r1S3O_-zB3_sAlXe9rhavsIDNx480UbtKz6zvEtO6cpPQOFrYC0tc)
+
+---
+
 ## Courses
 
 - Basic Programing - Platzi 
 - Git & GitHub - Platzi
-- Google Analytics - Platzi
 - Introdution to SQL - Codecademy
+- Google Analytics - Platzi
 - Online technology entrepreneurship course - Stanford University
