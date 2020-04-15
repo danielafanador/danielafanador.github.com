@@ -36,7 +36,9 @@
 ### VanPC | Bogotá, Colombia
 07/2010 - 12/2011
 - Communications coordinator
+
 ---
+
 ## Academic background
 
 ### ESPM-SP | São Paulo, Brazil
@@ -48,7 +50,9 @@
 01/2008 - 08/2012
 - Bachelor in Communication & Journalism
 - Emphasis in political communication
+
 ---
+
 ## Courses
 
 - Basic Programing - Platzi 
