@@ -65,3 +65,13 @@
 - Introdution to SQL - Codecademy
 - Google Analytics - Platzi
 - Online technology entrepreneurship course - Stanford University
+
+---
+
+## Tools
+
+- JIRA
+- Facebook Business Manager
+- Facebook & Twitter Ads API interfaces
+- Google Analytic
+- Google Webmaster Tools
