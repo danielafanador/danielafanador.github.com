@@ -73,5 +73,9 @@
 - JIRA
 - Facebook Business Manager
 - Facebook & Twitter Ads API interfaces
+- Google Analytics
+- Google Webmaster Console
+- WordPres
 - Google Analytic
 - Google Webmaster Tools
+- WordPress
