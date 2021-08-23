@@ -1,4 +1,4 @@
-# Daniel Afanador
+# Daniel Afanador - Brazil
 
 ![ ](https://pbs.twimg.com/profile_images/1232330439110615041/p46_R0gn_400x400.jpg)
   
@@ -11,9 +11,14 @@
 
 ## Experience
 
+### Cognyte | São Paulo & Florianopolis, Brazil  
+05/2021 - 08/2021
+- Product Intelligence Analyst
+
 ### Adglow | São Paulo, Brazil  
-07/2016 - Today
-- Pod Lead, South Cone Accounts & Product Support LatAm
+07/2016 - 04/2021
+- Product & Ad Operations Lead, LatAm
+- Pod Lead, South Cone Accounts & Product Support, LatAm
 - Client Solutions Manager, Brazil
 - Account Manager, Brazil
 
