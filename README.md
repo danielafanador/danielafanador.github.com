@@ -88,4 +88,3 @@
 ## Experimentos
 
 - Experimento 1: rebase
-- Experimento 2: rebase
